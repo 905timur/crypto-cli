@@ -1,4 +1,4 @@
-# crypto-cli-tool 🚀
+# Crypto.CLI 🚀
 
 A command-line interface (CLI) tool to fetch cryptocurrency prices. 💰
 
