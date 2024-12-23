@@ -8,7 +8,7 @@ A command-line interface (CLI) tool to fetch cryptocurrency prices. 💰
 
 ## Installation ⚙️
 
-You can install `crypto-cli-tool` using one of the following methods:
+You can install `Crypto.CLI` using one of the following methods:
 
 ### Using pip (Recommended) 📦
 # If you are NOT using pip, you will need to install dependencies > see requirements.txt) 
