@@ -1,0 +1,4 @@
+exclude __pycache__/*
+exclude aliases.json
+exclude tokens.json
+include README.md
