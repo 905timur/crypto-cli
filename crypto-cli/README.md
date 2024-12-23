@@ -4,7 +4,7 @@ A command-line interface (CLI) tool to fetch cryptocurrency prices. 💰
 
 ## About 📚
 
-`crypto-cli-tool` is a simple and efficient command-line tool written in Python that allows you to quickly retrieve the latest prices of various cryptocurrencies. It fetches data from a reliable source and presents it in an easy-to-read format.
+`Crypto.CLI` is a simple and efficient command-line tool written in Python that allows you to quickly retrieve the latest prices of various cryptocurrencies. It fetches data from a reliable source and presents it in an easy-to-read format.
 
 ## Installation ⚙️
 
